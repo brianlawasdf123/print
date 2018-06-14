@@ -1,4 +1,4 @@
 
 module.exports = function print (message) {
-    console.log(message);
+    console.log('hello: %s', message);
 }
